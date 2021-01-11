@@ -21,23 +21,25 @@ Passo a Passo:
 
 Segue as imagens abaixo:
 
-1:
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/1.png?raw=true)
 
-1a:
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/1a.png?raw=true)
 
-2:
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/2.png?raw=true)
 
-2a: 
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/4.png?raw=true)
 
-3: 
+ 
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/4a.png?raw=true)
 
-4: 
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/5.png?raw=true)
 
-5: 
+
 ![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/5a.png?raw=true)
+
+![alt text](https://github.com/daniloazevedosanti/serverTomcat/blob/main/6b.png?raw=true)
