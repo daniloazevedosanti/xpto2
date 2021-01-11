@@ -1,0 +1,28 @@
+<a href="listar.jsp">Movimentações</a>
+<br />
+
+<h1>Efetuar movimentação</h1>
+<form action="add.jsp" method="post">
+	<table>
+		<tr>
+			<td>Tipo:</td>
+			<td><input type="text" name="tipo" placeholder="debito ou credito"/></td>
+		</tr>
+		<tr>
+			<td>Id Cliente:</td>
+			<td><input type="text" name="idCliente" /></td>
+		</tr>
+		<tr>
+			<td>Número da conta:</td>
+			<td><input type="text" name="contaOrigem" /></td>
+		</tr>
+		<tr>
+			<td>Valor:</td>
+			<td><input type="text" name="valor" /></td>
+		</tr>
+		<br>
+		<tr>
+			<td colspan="2"><input type="submit" value="Adicionar" /></td>
+		</tr>
+	</table>
+</form>
